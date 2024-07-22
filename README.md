@@ -24,6 +24,9 @@
 
 ## 파일 목록 및 설명
 
+0. 머신러닝 프로세스(참고)
+    - ml_process.ipynb
+
 1. 실행 파일
     - main.py
     - demo.ipynb
